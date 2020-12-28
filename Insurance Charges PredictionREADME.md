@@ -1,3 +1,4 @@
+## Insurance Charges Prediction
 Insurance charges and premiums largely depend on the existing condition of the individual at the commencement of an insurance policy.
 It also takes into account the lifestyle choices. 
 The data contains following information about people and their related insurance charges.
